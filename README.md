@@ -1,0 +1,2 @@
+# Notebooklm_lecturenotes
+notebooklm
